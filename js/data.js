@@ -26,7 +26,7 @@ const PROFILE = {
   name: "Yash Agrawal",
   role: "MIS Executive | Data Analyst",
   location: "Moradabad, Uttar Pradesh, India",
-  tagline: "Turning operational data into decision-ready insight.",
+  tagline: "Make the data speak!",
   email: "yashsinghal821866@gmail.com",
   phone: "+91 8218663981",
   linkedin: "https://www.linkedin.com/in/yashsite",
@@ -226,7 +226,7 @@ const EXPERIENCE = [
   {
     year: "2026",
     title: "MIS Executive",
-    org: "Nilgriva",
+    org: "Nilgriva (On site)",
     desc: "MIS reporting & business analytics",
     color: "var(--gold)",
   },
