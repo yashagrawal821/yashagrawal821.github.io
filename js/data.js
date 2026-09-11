@@ -24,7 +24,7 @@
 
 const PROFILE = {
   name: "Yash Agrawal",
-  role: "MIS Executive | Data Analyst",
+  role: "Data Analyst",
   location: "Moradabad, Uttar Pradesh, India",
   tagline: "Make the data speak!",
   email: "yashsinghal821866@gmail.com",
@@ -34,7 +34,7 @@ const PROFILE = {
   resumeFile: "assets/resume.pdf",
   photo: "assets/images/profile.jpg",
   summary:
-    "Detail-oriented and analytically driven Computer Science graduate specializing in MIS, data analytics and business intelligence. I take operational data through a disciplined pipeline — cleaning, modelling, analysis and visualization — until it becomes something a decision-maker can act on the same day.",
+    "Detail-oriented and analytically driven Computer Science graduate specializing in Data analytics and business intelligence. I take operational data through a disciplined pipeline — cleaning, modelling, analysis and visualization — until it becomes something a decision-maker can act on the same day.",
   education: {
     degree: "B.Tech, Computer Science & Engineering",
     school: "IFTM University",
@@ -61,7 +61,7 @@ const SKILLS = [
   {
     group: "Analytics & Reporting",
     color: "var(--cyan)",
-    items: ["Data Analysis", "Report Automation", "KPI Reporting", "MIS Reporting"],
+    items: ["Data Analysis", "Report Automation", "KPI Reporting"],
   },
   {
     group: "Advanced SQL",
@@ -225,15 +225,15 @@ const EXPERIENCE = [
   },
   {
     year: "2026",
-    title: "MIS Executive",
-    org: "Nilgriva (On site)",
-    desc: "MIS reporting & business analytics",
+    title: "Assistant Data Analyst",
+    org: "Nilgriva Stockflow Advisory Pvt Ltd (On site)",
+    desc: "Business analytics",
     color: "var(--gold)",
   },
 ];
 
 const ACHIEVEMENT = {
-  label: "Winner · Nov 2023",
+  label: "Winner as Team Leader · Nov 2023",
   title: "Maharishi Startup Expo 2.0 — 1st position among ~25 teams",
   detail: "Startup Innovation Hackathon, Maharishi University, Lucknow — led the team end-to-end across ideation, execution and final presentation.",
   icon: "🏆",
